@@ -1,5 +1,5 @@
-# Proyecto 3
-## Unificación de literales y formas normales
+# Proyecto 4
+## Razonamiento Deductivo
 ### Lógica Computacional 2019-2
 
 | Alumno        | No. Cuenta |
