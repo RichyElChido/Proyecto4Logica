@@ -1,2 +1,9 @@
-# Proyecto4Logica
-Repositorio donde se almacenará el codigo correspondiente a la practica 3, de Lógica Computacional 2019-2
+# Proyecto 3
+## Unificación de literales y formas normales
+### Lógica Computacional 2019-2
+
+| Alumno        | No. Cuenta |
+| ------------- | ------------- |
+| Pérez Villanueva Ricardo Enrique   | 315230884  |
+| Figueroa Sandoval Emiliano Gerardo | 315241774  |
+| Salas Martinez Mauricio Javier  | 311014859  |
